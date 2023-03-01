@@ -1,6 +1,8 @@
 \ 35 # 32 [SPACE] 64 @ 10 [NewLine]
 \ at-xy u1 u2
 
+\ can be snake or pathfinding
+
 variable y
 variable x
 variable width
